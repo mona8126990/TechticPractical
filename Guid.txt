@@ -1,0 +1,6 @@
+Clone project
+Install composer via composer install
+create database with name "techtic"
+run migration and seeder
+npm install and npm run development
+Register user and login with it.
